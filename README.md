@@ -1,4 +1,4 @@
-# map_examples
+# Map Examples
 List of Maps built with different tools
 
 
